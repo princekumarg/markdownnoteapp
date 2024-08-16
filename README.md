@@ -2,7 +2,8 @@
 
 # Jotion - The connected workspace where better, faster work happens.
 
-![Jotion - The connected workspace where better, faster work happens.](/.github/images/img_main.png "Jotion - The connected workspace where better, faster work happens.")
+![img_main](https://github.com/user-attachments/assets/fdd23c65-533e-4896-9914-c56f4531b12a)
+
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/princekumarg "Ask Me Anything!")
 [![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/princekumarg/markdownnoteapp/commits/master "Maintenance")
@@ -183,13 +184,14 @@ CLERK_ISSUER_URL=<your-clerk-issuer-url>
 
 ## :camera: Screenshots:
 
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+![img1](https://github.com/user-attachments/assets/156bb148-a854-4d2c-a9ff-8e4e2bde61f3)
 
-![Create new pages](/.github/images/img2.png "Create new pages")
+![img2](https://github.com/user-attachments/assets/e07183fe-13d5-4624-aa50-e06921dee645)
 
-![Notion-styled editor](/.github/images/img3.png "Notion-styled editor")
+![img3](https://github.com/user-attachments/assets/4075dfbf-53ee-4c1e-8f67-7fdf54e7e627)
 
-![Search pages](/.github/images/img4.png "Search pages")
+
+
 
 ## :gear: Tech Stack
 
